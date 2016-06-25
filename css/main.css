@@ -3,7 +3,22 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+	font-family: 'Kanit', sans-serif;
+}
 
+.heading-color-primary{
+	color:#f9b806 !important;
+}
+.jumbotron{
+	background-color:#c0bfbf;
+}
+#navbar .nav {
+	font-size:25px;
+}
+.navbar-brand{
+	font-size:30px;
+}
 
 
 
